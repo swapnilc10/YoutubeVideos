@@ -33,14 +33,24 @@ SQL Video 3
 https://youtu.be/9KhiigqKsLM?si=G1JbUL_WNt2O_uDM
 
 
-Python OOPS Concepts Part 03
+Python OOPS Concepts (Constructor) Part 03
 
 https://youtu.be/aB6zsnMEgQQ?si=4Ub0XMIAHKADEjgH
 
 
-Python OOPS Concepts Part 04
+Python OOPS Concepts (Variables and Methods) Part 04
 
 https://youtu.be/EiTcsHE3Hds?si=Zn425_8iG5QBaSok
+
+
+Python OOPS Concepts (Instance Variables) Part 05
+
+https://youtu.be/6RFh5mihQ6U?si=9RdXls6V4S1d8RdD
+
+
+Python OOPS Concepts (Static Variables) Part 06
+
+https://youtu.be/PdCmyTarmjc?si=PCC1q8fhkvJoIP6H
 
 
 
