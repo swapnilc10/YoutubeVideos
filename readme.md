@@ -52,6 +52,15 @@ Python OOPS Concepts (Static Variables) Part 06
 
 https://youtu.be/PdCmyTarmjc?si=PCC1q8fhkvJoIP6H
 
+SQL Video 4
+
+https://youtu.be/c9qVbZee_CA?si=zPlUtuoAH4iSBeSO
+
+
+SQL Video 5
+
+https://youtu.be/dpumG_-rAos?si=0XcV9UkrHEOQXR_L
+
 
 
 
