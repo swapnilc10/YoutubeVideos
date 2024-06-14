@@ -62,6 +62,16 @@ SQL Video 5
 https://youtu.be/dpumG_-rAos?si=0XcV9UkrHEOQXR_L
 
 
+Snowflake with Python
+
+https://youtu.be/7ynPrYJ4ROA?si=V6DAStUZwby_rWdH
+
+
+Python Project Database design
+
+https://youtu.be/Iz-R1UaU2Yo?si=6ltiy8rCWx75c-Jt
+
+
 
 
 
