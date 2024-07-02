@@ -72,6 +72,27 @@ Python Project Database design
 https://youtu.be/Iz-R1UaU2Yo?si=6ltiy8rCWx75c-Jt
 
 
+Python Project Database design : Part 02
+
+https://youtu.be/7QTec39GwBc?si=cNpe62tvemsucXAp
+
+
+Python Project : Part 03 (Student and Library File methods)
+
+https://youtu.be/FNopQ1qZFhE?si=UfxJjKXG-bqeDwyS
+
+
+Python : Working with dataframe (apply(), enumerate(), iterrows())
+
+https://youtu.be/etKaL6IUQBk?si=_qyMphqOHCV-JpgM
+
+
+Snowflake Concepts working with UDF vs UDTF, Temporary Table vs Permanent Table
+
+https://youtu.be/IAQCZeGcaIE?si=KUBC-6i7hsVC3aqL
+
+
+
 
 
 
